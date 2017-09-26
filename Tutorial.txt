@@ -6,3 +6,10 @@
 6. git add <nama file> untuk menambahkan file baru ke repo local
 7. git commit -m "<komentar user>" <nama file> untuk commit file baru atau file update sebelum di push ke repo git
 8. git push -u <remote name> <branch name> untuk push ke git
+
+
+
+
+---
+9. untuk kembalikan yang di local : git checkout -- test3.txt
+10. untuk kembalikan sama dgn di git :git checkout origin/master -- test3.txt
