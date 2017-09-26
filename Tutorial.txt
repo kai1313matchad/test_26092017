@@ -1,0 +1,8 @@
+1. Pastikan sudah di directory yang akan dipakai
+2. set global git config --global user.name "<username>"
+3. clone repo git clone <alamat repo>
+4. masuk ke directory repo yang sudah di local drive
+5. git status untuk cek ada file baru atau file yang sudah diupdate di local
+6. git add <nama file> untuk menambahkan file baru ke repo local
+7. git commit -m "<komentar user>" <nama file> untuk commit file baru atau file update sebelum di push ke repo git
+8. git push -u <remote name> <branch name> untuk push ke git
